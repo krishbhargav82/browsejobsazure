@@ -1,0 +1,9 @@
+{
+	"name": "browsejobs-adf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e2226ed-1f32-4bec-b7cb-c20f5ec542ab",
+		"tenantId": "3b7cfe2d-1dea-4085-9d86-1a031f8c00f7"
+	}
+}
